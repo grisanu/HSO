@@ -1,14 +1,11 @@
-.navbar {
-    max-height: 10px;
+.logo-container {
+    background-image: url("./assets/hso-photos/hso-logo.png");
 }
 
-.navbar .brand { 
-    max-height: 10px;
-    max-width: 30%; 
-    overflow: visible;
-    padding-top: 0;
-    padding-bottom: 0; 
-}
-.img-responsive {
-    max-height: 10px;
-}
+/*.logo {
+    height:100%;
+    width: auto;
+}*/
+/*.second-header {
+
+}*/

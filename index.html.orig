@@ -64,18 +64,8 @@
             </nav>
         </div>
     </div>
-    <div class="row" id="main-banner">
-        <div class="header well-lg">
-            <div class="logo-container">
-                <div class="col-xs-offset-4 col-sm-8">
-                    <h1>Hidden Star Orchards</h1>
-                </div>
-                <div class="container col-xs-offset-4 col-sm-8">
-                    <h2>A Family Farm and Cidery</h2>
-                </div>
-            </div>
-        </div>
-    </div>
+<<<<<<< HEAD
+
     <div id="GalleryCarousel" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
         <ol class="carousel-indicators">
@@ -98,3 +88,19 @@
     </div>
 </body>
 </html>
+=======
+    <div class="row" id="main-banner">
+        <div class="header well-lg">
+            <div class="logo-container">
+                <div class="col-xs-offset-4 col-sm-8">
+                    <h1>Hidden Star Orchards</h1>
+                </div>
+                <div class="container col-xs-offset-4 col-sm-8">
+                    <h2>A Family Farm and Cidery</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    </body>
+    </html>
+>>>>>>> 46c1428ba5942b0c04c53f4156d3927bfacdde82
